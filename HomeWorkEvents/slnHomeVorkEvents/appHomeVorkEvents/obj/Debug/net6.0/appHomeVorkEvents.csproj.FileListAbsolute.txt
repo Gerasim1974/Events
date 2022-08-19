@@ -1,0 +1,15 @@
+C:\WorkProgramm\HomeWorkEvents\slnHomeVorkEvents\appHomeVorkEvents\bin\Debug\net6.0\appHomeVorkEvents.exe
+C:\WorkProgramm\HomeWorkEvents\slnHomeVorkEvents\appHomeVorkEvents\bin\Debug\net6.0\appHomeVorkEvents.deps.json
+C:\WorkProgramm\HomeWorkEvents\slnHomeVorkEvents\appHomeVorkEvents\bin\Debug\net6.0\appHomeVorkEvents.runtimeconfig.json
+C:\WorkProgramm\HomeWorkEvents\slnHomeVorkEvents\appHomeVorkEvents\bin\Debug\net6.0\appHomeVorkEvents.dll
+C:\WorkProgramm\HomeWorkEvents\slnHomeVorkEvents\appHomeVorkEvents\bin\Debug\net6.0\appHomeVorkEvents.pdb
+C:\WorkProgramm\HomeWorkEvents\slnHomeVorkEvents\appHomeVorkEvents\obj\Debug\net6.0\appHomeVorkEvents.csproj.AssemblyReference.cache
+C:\WorkProgramm\HomeWorkEvents\slnHomeVorkEvents\appHomeVorkEvents\obj\Debug\net6.0\appHomeVorkEvents.GeneratedMSBuildEditorConfig.editorconfig
+C:\WorkProgramm\HomeWorkEvents\slnHomeVorkEvents\appHomeVorkEvents\obj\Debug\net6.0\appHomeVorkEvents.AssemblyInfoInputs.cache
+C:\WorkProgramm\HomeWorkEvents\slnHomeVorkEvents\appHomeVorkEvents\obj\Debug\net6.0\appHomeVorkEvents.AssemblyInfo.cs
+C:\WorkProgramm\HomeWorkEvents\slnHomeVorkEvents\appHomeVorkEvents\obj\Debug\net6.0\appHomeVorkEvents.csproj.CoreCompileInputs.cache
+C:\WorkProgramm\HomeWorkEvents\slnHomeVorkEvents\appHomeVorkEvents\obj\Debug\net6.0\appHomeVorkEvents.dll
+C:\WorkProgramm\HomeWorkEvents\slnHomeVorkEvents\appHomeVorkEvents\obj\Debug\net6.0\refint\appHomeVorkEvents.dll
+C:\WorkProgramm\HomeWorkEvents\slnHomeVorkEvents\appHomeVorkEvents\obj\Debug\net6.0\appHomeVorkEvents.pdb
+C:\WorkProgramm\HomeWorkEvents\slnHomeVorkEvents\appHomeVorkEvents\obj\Debug\net6.0\appHomeVorkEvents.genruntimeconfig.cache
+C:\WorkProgramm\HomeWorkEvents\slnHomeVorkEvents\appHomeVorkEvents\obj\Debug\net6.0\ref\appHomeVorkEvents.dll
